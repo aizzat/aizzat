@@ -37,9 +37,9 @@ I'm a passionate developer who loves building practical solutions, exploring new
 
 ### 📈 My GitHub Activity
 
-<!-- Using stable mirror servers to prevent API timeout errors -->
+<!-- These cards automatically update and include your private contributions! -->
 
-![Aizzat's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aizzat&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=2EA043&title_color=58A6FF)
+![Aizzat's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aizzat&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=2EA043&title_color=58A6FF&count_private=true)
 
 ![Aizzat's GitHub Streak](https://streak-stats.demolab.com/?user=aizzat&theme=algolia&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakNum=C9D1D9)
 
