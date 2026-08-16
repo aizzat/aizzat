@@ -7,6 +7,7 @@ I'm a passionate developer who loves building practical solutions, exploring new
 ### 👨‍💻 About Me
 
 * 🔭 I’m currently working on exciting projects over at [maizzat.my](https://maizzat.my)
+* 🔭 Check out my research lab at [arms-ftkpm.org](https://arms-ftkpm.org/arcftkpm-lab.html)
 * 🚀 I actively lead and manage multiple grant-funded projects, bringing innovative ideas to life
 * 🌱 I’m constantly learning and expanding my tech stack
 * 👯 I’m looking to collaborate on interesting open-source projects
