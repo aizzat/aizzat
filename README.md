@@ -15,8 +15,8 @@
   <a href="https://research.maizzat.my"><img src="./assets/badges/portal.svg" alt="Research Portal - research.maizzat.my" /></a>
   <a href="https://research.maizzat.my/software/"><img src="./assets/badges/software.svg" alt="Software Hub - Apps and Games" /></a>
   <a href="https://drebar-tech.maizzat.my/"><img src="./assets/badges/drebar.svg" alt="DREBAR-tech - Robot Fleet" /></a>
-  <a href="https://arms-ftkpm.org/arcftkpm-lab.html"><img src="./assets/badges/lab.svg" alt="ARC Lab - UMPSA" /></a>
   <br />
+  <a href="https://arms-ftkpm.org/arcftkpm-lab.html"><img src="./assets/badges/lab.svg" alt="ARC Lab - UMPSA" /></a>
   <a href="https://scholar.google.com.my/citations?user=EBRQHKUAAAAJ"><img src="./assets/badges/scholar.svg" alt="Google Scholar - 100+ Papers" /></a>
   <a href="https://cv.maizzat.my"><img src="./assets/badges/cv.svg" alt="Curriculum Vitae - cv.maizzat.my" /></a>
   <a href="https://www.tiktok.com/@draizzat"><img src="./assets/badges/tiktok.svg" alt="TikTok - @draizzat" /></a>
@@ -94,7 +94,7 @@
 
 <p align="center">
   <strong>Mobile Apps, Games &amp; Web</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,react,html,css,js,php,mysql&theme=dark" alt="Mobile Apps, Games and Web Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,react,html,css,js,php,mysql&theme=dark" alt="Mobile Apps, Games and Web Tech Stack" />
 </p>
 
 ---
