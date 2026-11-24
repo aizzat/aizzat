@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="30" role="img" aria-label="DREBAR-TECH: ROBOT FLEET">
+  <title>DREBAR-TECH: ROBOT FLEET</title>
+  <clipPath id="r"><rect width="214" height="30" rx="5" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="105" height="30" fill="#0b1015"/>
+    <rect x="105" width="109" height="30" fill="#1fc8c2"/>
+    
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.6">
+    <text x="52.5" y="19" fill="#e2e8f0">DREBAR-TECH</text>
+    <text x="159.5" y="19" fill="#0b1015">ROBOT FLEET</text>
+  </g>
+</svg>

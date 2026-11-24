@@ -12,14 +12,14 @@
 
 <!-- Quick-Access Action Badges -->
 <p align="center">
-  <a href="https://research.maizzat.my"><img src="https://img.shields.io/badge/Research_Portal-research.maizzat.my-0284c7?style=for-the-badge&logo=globe&logoColor=white" alt="Research Portal" /></a>
-  <a href="https://research.maizzat.my/software/"><img src="https://img.shields.io/badge/Software_Hub-Apps_%26_Games-0f172a?style=for-the-badge&logo=googleplay&logoColor=38bdf8" alt="Software Hub" /></a>
-  <a href="https://drebar-tech.maizzat.my/"><img src="https://img.shields.io/badge/DREBAR--tech-Robot_Fleet-1fc8c2?style=for-the-badge&logo=ros&logoColor=0b1015" alt="DREBAR-tech" /></a>
-  <a href="https://arms-ftkpm.org/arcftkpm-lab.html"><img src="https://img.shields.io/badge/ARC_Lab-UMPSA-0369a1?style=for-the-badge&logo=robotframework&logoColor=white" alt="ARC Lab" /></a>
+  <a href="https://research.maizzat.my"><img src="./assets/badges/portal.svg" alt="Research Portal - research.maizzat.my" /></a>
+  <a href="https://research.maizzat.my/software/"><img src="./assets/badges/software.svg" alt="Software Hub - Apps and Games" /></a>
+  <a href="https://drebar-tech.maizzat.my/"><img src="./assets/badges/drebar.svg" alt="DREBAR-tech - Robot Fleet" /></a>
+  <a href="https://arms-ftkpm.org/arcftkpm-lab.html"><img src="./assets/badges/lab.svg" alt="ARC Lab - UMPSA" /></a>
   <br />
-  <a href="https://scholar.google.com.my/citations?user=EBRQHKUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-100%2B_Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://cv.maizzat.my"><img src="https://img.shields.io/badge/Curriculum_Vitae-cv.maizzat.my-334155?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
-  <a href="https://www.tiktok.com/@draizzat"><img src="https://img.shields.io/badge/TikTok-%40draizzat-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @draizzat" /></a>
+  <a href="https://scholar.google.com.my/citations?user=EBRQHKUAAAAJ"><img src="./assets/badges/scholar.svg" alt="Google Scholar - 100+ Papers" /></a>
+  <a href="https://cv.maizzat.my"><img src="./assets/badges/cv.svg" alt="Curriculum Vitae - cv.maizzat.my" /></a>
+  <a href="https://www.tiktok.com/@draizzat"><img src="./assets/badges/tiktok.svg" alt="TikTok - @draizzat" /></a>
 </p>
 
 ---
@@ -89,20 +89,12 @@
 
 <p align="center">
   <strong>Robotics, Firmware &amp; Systems</strong><br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ros,linux,ubuntu,cpp,py,docker,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ros,linux,ubuntu,cpp,py,docker,git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu,cpp,py,docker,git" alt="Robotics, Firmware and Systems Tech Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu,cpp,py,docker,git&theme=dark" alt="Robotics, Firmware and Systems Tech Stack" />
 </p>
 
 <p align="center">
   <strong>Mobile Apps, Games &amp; Web</strong><br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,react,html,css,js,php,mysql&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,react,html,css,js,php,mysql&theme=light" />
-    <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,react,html,css,js,php,mysql" alt="Mobile Apps, Games and Web Tech Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,react,html,css,js,php,mysql&theme=dark" alt="Mobile Apps, Games and Web Tech Stack" />
 </p>
 
 ---
@@ -110,8 +102,8 @@
 ### 📊 Live GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=aizzat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=1fc8c2&text_color=c9d1d9&count_private=true" alt="Aizzat GitHub Stats" />
-  <img height="175" src="https://streak-stats.demolab.com/?user=aizzat&hide_border=true&background=0D1117&ring=1FC8C2&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Aizzat GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aizzat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=1fc8c2&text_color=c9d1d9&count_private=true" alt="Aizzat GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=aizzat&hide_border=true&background=0D1117&ring=1FC8C2&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Aizzat GitHub Streak" />
 </p>
 
 <p align="center">

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="30" role="img" aria-label="CURRICULUM VITAE: cv.maizzat.my">
+  <title>CURRICULUM VITAE: cv.maizzat.my</title>
+  <clipPath id="r"><rect width="268" height="30" rx="5" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="143" height="30" fill="#1e293b"/>
+    <rect x="143" width="125" height="30" fill="#334155"/>
+    
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.6">
+    <text x="71.5" y="19" fill="#ffffff">CURRICULUM VITAE</text>
+    <text x="205.5" y="19" fill="#ffffff">cv.maizzat.my</text>
+  </g>
+</svg>

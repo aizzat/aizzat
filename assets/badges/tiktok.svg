@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="30" role="img" aria-label="TIKTOK: @draizzat">
+  <title>TIKTOK: @draizzat</title>
+  <clipPath id="r"><rect width="166" height="30" rx="5" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="72" height="30" fill="#18181b"/>
+    <rect x="72" width="94" height="30" fill="#000000"/>
+    <rect x="0" y="0" width="4" height="30" fill="#25f4ee"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.6">
+    <text x="36.0" y="19" fill="#ffffff">TIKTOK</text>
+    <text x="119.0" y="19" fill="#ffffff">@draizzat</text>
+  </g>
+</svg>

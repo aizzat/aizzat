@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="30" role="img" aria-label="SOFTWARE HUB: APPS &amp; GAMES">
+  <title>SOFTWARE HUB: APPS &amp; GAMES</title>
+  <clipPath id="r"><rect width="230" height="30" rx="5" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="113" height="30" fill="#0f172a"/>
+    <rect x="113" width="117" height="30" fill="#0369a1"/>
+    <rect x="0" y="0" width="4" height="30" fill="#38bdf8"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.6">
+    <text x="56.5" y="19" fill="#ffffff">SOFTWARE HUB</text>
+    <text x="171.5" y="19" fill="#ffffff">APPS &amp; GAMES</text>
+  </g>
+</svg>
